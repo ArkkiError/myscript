@@ -7,3 +7,4 @@ code exam_practice2_game.py
 # ---------------------------------
 
 # just write: ./myscript2.sh
+# or myscript2.sh
