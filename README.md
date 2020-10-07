@@ -1,0 +1,2 @@
+# myscript
+School practices
